@@ -1,4 +1,4 @@
-# Movie-Recomendation-System
+# Movie_Recomendation_System
 This project is a Content-Based Movie Recommendation System built using Python and Machine Learning techniques. It suggests English movies based on the similarity of content features such as movie genres, keywords, and overviews. This system is ideal for providing personalized recommendations without requiring user ratings.
 
 # Features
